@@ -101,7 +101,7 @@ $year = date('Y');
       <ul>
         <li><a href="https://el-mordjene.info/dubai-chocolate/">How to Make Dubai Chocolate at Home</a></li>
         <li><a href="https://el-mordjene.info/candy-making-home/">Easy Candy Making Recipes 2025</a></li>
-        <li><a href="https://el-mordjene.info/hazelnut-spread/">Homemade Hazelnut Spread Recipe</a></li>
+        <li><a href="https://el-mordjene.info/homemade-chocolate-recipes/">Homemade Chocolate Recipe</a></li>
       </ul>
       <a href="https://el-mordjene.info/" class="btn">Explore More Recipes</a>
     </section>
@@ -111,8 +111,6 @@ $year = date('Y');
       <p>Looking for more government or lifestyle guides? Check these out:</p>
       <ul>
         <li><a href="https://kisanportal.org/">Kisan Portal – Farmer Welfare Schemes</a></li>
-        <li><a href="https://ladkibahin-yojana.org/">Ladki Bahin Yojana Updates</a></li>
-        <li><a href="https://swamivivekanandascholarship.org/">Swami Vivekananda Scholarship Portal</a></li>
       </ul>
     </section>
 
