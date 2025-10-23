@@ -11,6 +11,7 @@ $year = date('Y');
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= $title ?></title>
   <meta name="description" content="Explore the 2025 guide to homemade treats and spreads — from Dubai chocolate to vegan nut butter. Learn recipes, DIY tips, and sustainable alternatives inspired by the El Mordjene trend.">
+  <meta name="google-site-verification" content="h-Y9HaZ-LHs6n62xVOS7DgCqSnWV7Vm2gOskDqzgKTI" />
   <style>
     body {
       font-family: "Poppins", Arial, sans-serif;
@@ -111,6 +112,9 @@ $year = date('Y');
       <p>Looking for more government or lifestyle guides? Check these out:</p>
       <ul>
         <li><a href="https://kisanportal.org/">Kisan Portal – Farmer Welfare Schemes</a></li>
+        <li><a href="https://drshahidislam-project-34a785.gitlab.io/">Kisan Portal</a></li>
+        <li><a href="https://el-mordjene-ec4b35.gitlab.io/">El Mordjene</a></li>
+        
       </ul>
     </section>
 
